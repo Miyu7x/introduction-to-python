@@ -5,9 +5,12 @@
 # -------------------------------------------------------
 # Notes
 # -------------------------------------------------------
-#
+# In Python we can set any value to a name, a variable
+# To create a variable x with a value of 5 we use =
+# x = 5
 
 # -------------------------------------------------------
 # Solution
 # -------------------------------------------------------
-
+savings = 100       # assign integer 100 to variable savings
+print(savings)      # output: 100
