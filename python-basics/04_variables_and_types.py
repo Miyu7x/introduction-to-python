@@ -5,9 +5,11 @@
 # -------------------------------------------------------
 # Notes
 # -------------------------------------------------------
-#
+# Variables store values under a name so you can reuse them
+# Python has different data types: int, float, str, bool
+# Intergers, Float, Strings, Booleans
 
 # -------------------------------------------------------
 # Solution
 # -------------------------------------------------------
-
+# N/A - reading exercise
