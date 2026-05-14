@@ -26,3 +26,13 @@ print(total_savings)
 
 # Print the type of total_savings
 print(type(total_savings))
+
+# 2
+
+intro = "Hello! How are you?"
+
+# Assign sum of intro and intro to doubleintro
+doubleintro= (intro + intro)
+
+# Print out doubleintro
+print(doubleintro)
